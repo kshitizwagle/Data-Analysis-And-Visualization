@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+textblob
+WordCloud
+plotly
+networkx
+nbformat>=3.2.0
